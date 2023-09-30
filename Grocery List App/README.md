@@ -1,3 +1,6 @@
+See this app in action:
+https://germaines-grocery-list.netlify.app/ 
+
 Quick start:
 
 ```
